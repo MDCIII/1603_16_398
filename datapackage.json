@@ -1,0 +1,237 @@
+{
+  "name": "1603",
+  "profile": "data-package-catalog",
+  "resources": [
+    {
+      "name": "1603_16_398_0",
+      "path": "1603/16/398/0/1603_16_398_0.no1.bcp47.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5000-snop",
+            "type": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp297-ps5000-x-p297",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp577-ps1603",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp813-ps1603",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
+            "type": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+      },
+      "stats": {
+        "fields": 10,
+        "rows": 1
+      }
+    },
+    {
+      "name": "1603_16_398_1",
+      "path": "1603/16/398/1/1603_16_398_1.no1.bcp47.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5000-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5001-snop",
+            "type": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5001",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5001",
+            "type": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5001",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq7200235-ps5001-x-wdataq7200235",
+            "type": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp297-ps5000-x-p297",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp577-ps1603",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp813-ps1603",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
+            "type": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+      },
+      "stats": {
+        "fields": 15,
+        "rows": 17
+      }
+    },
+    {
+      "name": "1603_16_398_2",
+      "path": "1603/16/398/2/1603_16_398_2.no1.bcp47.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5000-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5001-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5002-snop",
+            "type": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5002",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5002",
+            "type": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5002",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq7200235-ps5002-x-wdataq7200235",
+            "type": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5001",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5001",
+            "type": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5001",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq7200235-ps5001-x-wdataq7200235",
+            "type": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp297-ps5000-x-p297",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp577-ps1603",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp813-ps1603",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
+            "type": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+      },
+      "stats": {
+        "fields": 20,
+        "rows": 216
+      }
+    }
+  ]
+}

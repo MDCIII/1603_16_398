@@ -1,0 +1,214 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw"
+  ],
+  "tables": [
+    {
+      "url": "1603/16/398/0/1603_16_398_0.no1.bcp47.csv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5000-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp297-ps5000-x-p297",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp577-ps1603",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp813-ps1603",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
+            "datatype": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:398:0:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
+      }
+    },
+    {
+      "url": "1603/16/398/1/1603_16_398_1.no1.bcp47.csv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5000-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5001-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5001",
+            "datatype": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5001",
+            "datatype": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5001",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq7200235-ps5001-x-wdataq7200235",
+            "datatype": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp297-ps5000-x-p297",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp577-ps1603",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp813-ps1603",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
+            "datatype": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:398:1:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
+      }
+    },
+    {
+      "url": "1603/16/398/2/1603_16_398_2.no1.bcp47.csv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5000-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5001-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5002-snop",
+            "datatype": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5002",
+            "datatype": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5002",
+            "datatype": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5002",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq7200235-ps5002-x-wdataq7200235",
+            "datatype": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5001",
+            "datatype": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5001",
+            "datatype": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5001",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq7200235-ps5001-x-wdataq7200235",
+            "datatype": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp297-ps5000-x-p297",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp577-ps1603",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp813-ps1603",
+            "datatype": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
+            "datatype": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:398:2:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
+      }
+    }
+  ]
+}
