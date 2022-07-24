@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:398()>
     a skos:Collection ;
@@ -23,7 +22,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akmola"@eng-Latn ,
         "Ақмола"@kaz-Zyyy ,
         "Акмолинская"@rus-Cyrl ;
-    wdata:q7200235 "KZ11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -62,7 +60,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aktobe"@eng-Latn ,
         "Ақтөбе"@kaz-Zyyy ,
         "Актюбинская"@rus-Cyrl ;
-    wdata:q7200235 "KZ15" ;
 .
 
 <urn:mdciii:1603:16:398:1:19>
@@ -74,7 +71,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Almaty"@eng-Latn ,
         "Алматы"@kaz-Zyyy ,
         "Алматинская"@rus-Cyrl ;
-    wdata:q7200235 "KZ19" ;
 .
 
 <urn:mdciii:1603:16:398:1:23>
@@ -86,7 +82,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Atyrau"@eng-Latn ,
         "Атырау"@kaz-Zyyy ,
         "Атырауская"@rus-Cyrl ;
-    wdata:q7200235 "KZ23" ;
 .
 
 <urn:mdciii:1603:16:398:1:27>
@@ -98,7 +93,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "West Kazakhstan"@eng-Latn ,
         "Батыс Қазақстан"@kaz-Zyyy ,
         "Западно-Казахстанская"@rus-Cyrl ;
-    wdata:q7200235 "KZ27" ;
 .
 
 <urn:mdciii:1603:16:398:1:31>
@@ -110,7 +104,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Jambyl"@eng-Latn ,
         "Жамбыл"@kaz-Zyyy ,
         "Жамбылская"@rus-Cyrl ;
-    wdata:q7200235 "KZ31" ;
 .
 
 <urn:mdciii:1603:16:398:1:35>
@@ -122,7 +115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karagandy"@eng-Latn ,
         "Қарағанды"@kaz-Zyyy ,
         "Карагандинская"@rus-Cyrl ;
-    wdata:q7200235 "KZ35" ;
 .
 
 <urn:mdciii:1603:16:398:1:39>
@@ -134,7 +126,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kostanay"@eng-Latn ,
         "Қостанай"@kaz-Zyyy ,
         "Костанайская"@rus-Cyrl ;
-    wdata:q7200235 "KZ39" ;
 .
 
 <urn:mdciii:1603:16:398:1:43>
@@ -146,7 +137,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kyzylorda"@eng-Latn ,
         "Қызылорда"@kaz-Zyyy ,
         "Кызылординская"@rus-Cyrl ;
-    wdata:q7200235 "KZ43" ;
 .
 
 <urn:mdciii:1603:16:398:1:47>
@@ -158,7 +148,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mangystau"@eng-Latn ,
         "Маңғыстау"@kaz-Zyyy ,
         "Мангистауская"@rus-Cyrl ;
-    wdata:q7200235 "KZ47" ;
 .
 
 <urn:mdciii:1603:16:398:1:55>
@@ -170,7 +159,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pavlodar"@eng-Latn ,
         "Павлодар"@kaz-Zyyy ,
         "Павлодарская"@rus-Cyrl ;
-    wdata:q7200235 "KZ55" ;
 .
 
 <urn:mdciii:1603:16:398:1:59>
@@ -182,7 +170,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "North Kazakhstan"@eng-Latn ,
         "Солтүстiк Қазақстан"@kaz-Zyyy ,
         "Северо-Казахстанская"@rus-Cyrl ;
-    wdata:q7200235 "KZ59" ;
 .
 
 <urn:mdciii:1603:16:398:1:61>
@@ -194,7 +181,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Turkestan"@eng-Latn ,
         "Түркістан"@kaz-Zyyy ,
         "Туркестанская"@rus-Cyrl ;
-    wdata:q7200235 "KZ61" ;
 .
 
 <urn:mdciii:1603:16:398:1:63>
@@ -206,7 +192,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "East Kazakhstan"@eng-Latn ,
         "Шығыс Қазақстан"@kaz-Zyyy ,
         "Восточно-Казахстанская"@rus-Cyrl ;
-    wdata:q7200235 "KZ63" ;
 .
 
 <urn:mdciii:1603:16:398:1:71>
@@ -218,7 +203,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nur-Sultan (city)"@eng-Latn ,
         "Нұр-Сұлтан"@kaz-Zyyy ,
         "Нур-Султан"@rus-Cyrl ;
-    wdata:q7200235 "KZ71" ;
 .
 
 <urn:mdciii:1603:16:398:1:75>
@@ -230,7 +214,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Almaty (city)"@eng-Latn ,
         "Алматы (қала)"@kaz-Zyyy ,
         "Алматы"@rus-Cyrl ;
-    wdata:q7200235 "KZ75" ;
 .
 
 <urn:mdciii:1603:16:398:1:79>
@@ -242,6 +225,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shymkent (city)"@eng-Latn ,
         "Шымкент"@kaz-Zyyy ,
         "Чимкент"@rus-Cyrl ;
-    wdata:q7200235 "KZ79" ;
 .
 

@@ -27,7 +27,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kokshetau"@eng-Latn ,
         "Көкшетау"@kaz-Zyyy ,
         "Кокшетау"@rus-Cyrl ;
-    wdata:q7200235 "KZ111010" ;
+    wdata:Q7200235 "KZ111010" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -268,7 +268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Stepnogorsk"@eng-Latn ,
         "Степногор"@kaz-Zyyy ,
         "Степногорск"@rus-Cyrl ;
-    wdata:q7200235 "KZ111810" ;
+    wdata:Q7200235 "KZ111810" ;
 .
 
 <urn:mdciii:1603:16:398:2:113200>
@@ -283,7 +283,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akkol"@eng-Latn ,
         "Ақкөл"@kaz-Zyyy ,
         "Аккольский"@rus-Cyrl ;
-    wdata:q7200235 "KZ113200" ;
+    wdata:Q7200235 "KZ113200" ;
 .
 
 <urn:mdciii:1603:16:398:2:113400>
@@ -298,7 +298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Arshaly"@eng-Latn ,
         "Аршалы"@kaz-Zyyy ,
         "Aршалинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ113400" ;
+    wdata:Q7200235 "KZ113400" ;
 .
 
 <urn:mdciii:1603:16:398:2:113600>
@@ -313,7 +313,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Astrakhan"@eng-Latn ,
         "Астрахан"@kaz-Zyyy ,
         "Астраханский"@rus-Cyrl ;
-    wdata:q7200235 "KZ113600" ;
+    wdata:Q7200235 "KZ113600" ;
 .
 
 <urn:mdciii:1603:16:398:2:113800>
@@ -328,7 +328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Atbasar"@eng-Latn ,
         "Атбасар"@kaz-Zyyy ,
         "Атбасарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ113800" ;
+    wdata:Q7200235 "KZ113800" ;
 .
 
 <urn:mdciii:1603:16:398:2:114000>
@@ -343,7 +343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bulandy"@eng-Latn ,
         "Бұланды"@kaz-Zyyy ,
         "Буландынский"@rus-Cyrl ;
-    wdata:q7200235 "KZ114000" ;
+    wdata:Q7200235 "KZ114000" ;
 .
 
 <urn:mdciii:1603:16:398:2:114400>
@@ -358,7 +358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Egindykol"@eng-Latn ,
         "Егіндікөл"@kaz-Zyyy ,
         "Егиндыкольский"@rus-Cyrl ;
-    wdata:q7200235 "KZ114400" ;
+    wdata:Q7200235 "KZ114400" ;
 .
 
 <urn:mdciii:1603:16:398:2:114500>
@@ -373,7 +373,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Birzhan sal"@eng-Latn ,
         "Біржан сал"@kaz-Zyyy ,
         "Биржан сал"@rus-Cyrl ;
-    wdata:q7200235 "KZ114500" ;
+    wdata:Q7200235 "KZ114500" ;
 .
 
 <urn:mdciii:1603:16:398:2:114600>
@@ -388,7 +388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ereymentau"@eng-Latn ,
         "Ерейментау"@kaz-Zyyy ,
         "Ерейментауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ114600" ;
+    wdata:Q7200235 "KZ114600" ;
 .
 
 <urn:mdciii:1603:16:398:2:114800>
@@ -403,7 +403,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Esil"@eng-Latn ,
         "Есіл"@kaz-Zyyy ,
         "Есильский"@rus-Cyrl ;
-    wdata:q7200235 "KZ114800" ;
+    wdata:Q7200235 "KZ114800" ;
 .
 
 <urn:mdciii:1603:16:398:2:115200>
@@ -418,7 +418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhaksy"@eng-Latn ,
         "Жақсы"@kaz-Zyyy ,
         "Жаксынский"@rus-Cyrl ;
-    wdata:q7200235 "KZ115200" ;
+    wdata:Q7200235 "KZ115200" ;
 .
 
 <urn:mdciii:1603:16:398:2:115400>
@@ -433,7 +433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zharkain"@eng-Latn ,
         "Жарқайың"@kaz-Zyyy ,
         "Жаркаинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ115400" ;
+    wdata:Q7200235 "KZ115400" ;
 .
 
 <urn:mdciii:1603:16:398:2:115600>
@@ -448,7 +448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zerendi"@eng-Latn ,
         "Зеренді"@kaz-Zyyy ,
         "Зерендинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ115600" ;
+    wdata:Q7200235 "KZ115600" ;
 .
 
 <urn:mdciii:1603:16:398:2:116000>
@@ -463,7 +463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Korgalzhyn"@eng-Latn ,
         "Қорғалжын"@kaz-Zyyy ,
         "Коргалжынский"@rus-Cyrl ;
-    wdata:q7200235 "KZ116000" ;
+    wdata:Q7200235 "KZ116000" ;
 .
 
 <urn:mdciii:1603:16:398:2:116400>
@@ -478,7 +478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sandyktau"@eng-Latn ,
         "Сандықтау"@kaz-Zyyy ,
         "Сандыктауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ116400" ;
+    wdata:Q7200235 "KZ116400" ;
 .
 
 <urn:mdciii:1603:16:398:2:116600>
@@ -493,7 +493,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tselinograd"@eng-Latn ,
         "Целиноград"@kaz-Zyyy ,
         "Целиноградский"@rus-Cyrl ;
-    wdata:q7200235 "KZ116600" ;
+    wdata:Q7200235 "KZ116600" ;
 .
 
 <urn:mdciii:1603:16:398:2:116800>
@@ -508,7 +508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shortandy"@eng-Latn ,
         "Шортанды"@kaz-Zyyy ,
         "Шортандинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ116800" ;
+    wdata:Q7200235 "KZ116800" ;
 .
 
 <urn:mdciii:1603:16:398:2:117000>
@@ -523,7 +523,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Burabay"@eng-Latn ,
         "Бурабай"@kaz-Zyyy ,
         "Бурабайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ117000" ;
+    wdata:Q7200235 "KZ117000" ;
 .
 
 <urn:mdciii:1603:16:398:2:151000>
@@ -538,7 +538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aktobe"@eng-Latn ,
         "Ақтөбе"@kaz-Zyyy ,
         "Актобе"@rus-Cyrl ;
-    wdata:q7200235 "KZ151000" ;
+    wdata:Q7200235 "KZ151000" ;
 .
 
 <urn:mdciii:1603:16:398:2:153200>
@@ -553,7 +553,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Alga"@eng-Latn ,
         "Алға"@kaz-Zyyy ,
         "Алгинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ153200" ;
+    wdata:Q7200235 "KZ153200" ;
 .
 
 <urn:mdciii:1603:16:398:2:153400>
@@ -568,7 +568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ayteke bi"@eng-Latn ,
         "Әйтеке би"@kaz-Zyyy ,
         "Айтекебийский"@rus-Cyrl ;
-    wdata:q7200235 "KZ153400" ;
+    wdata:Q7200235 "KZ153400" ;
 .
 
 <urn:mdciii:1603:16:398:2:153600>
@@ -583,7 +583,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bayganin"@eng-Latn ,
         "Байғанин"@kaz-Zyyy ,
         "Байганинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ153600" ;
+    wdata:Q7200235 "KZ153600" ;
 .
 
 <urn:mdciii:1603:16:398:2:154000>
@@ -598,7 +598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kargaly"@eng-Latn ,
         "Қарғалы"@kaz-Zyyy ,
         "Каргалинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ154000" ;
+    wdata:Q7200235 "KZ154000" ;
 .
 
 <urn:mdciii:1603:16:398:2:154200>
@@ -613,7 +613,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Khobda"@eng-Latn ,
         "Қобда"@kaz-Zyyy ,
         "Хобдинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ154200" ;
+    wdata:Q7200235 "KZ154200" ;
 .
 
 <urn:mdciii:1603:16:398:2:154600>
@@ -628,7 +628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Martuk"@eng-Latn ,
         "Мәртөк"@kaz-Zyyy ,
         "Мартукский"@rus-Cyrl ;
-    wdata:q7200235 "KZ154600" ;
+    wdata:Q7200235 "KZ154600" ;
 .
 
 <urn:mdciii:1603:16:398:2:154800>
@@ -643,7 +643,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mugalzhar"@eng-Latn ,
         "Мұғалжар"@kaz-Zyyy ,
         "Мугалжарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ154800" ;
+    wdata:Q7200235 "KZ154800" ;
 .
 
 <urn:mdciii:1603:16:398:2:155200>
@@ -658,7 +658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Oiyl"@eng-Latn ,
         "Ойыл"@kaz-Zyyy ,
         "Уилский"@rus-Cyrl ;
-    wdata:q7200235 "KZ155200" ;
+    wdata:Q7200235 "KZ155200" ;
 .
 
 <urn:mdciii:1603:16:398:2:155600>
@@ -673,7 +673,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Temir"@eng-Latn ,
         "Темір"@kaz-Zyyy ,
         "Темирский"@rus-Cyrl ;
-    wdata:q7200235 "KZ155600" ;
+    wdata:Q7200235 "KZ155600" ;
 .
 
 <urn:mdciii:1603:16:398:2:156000>
@@ -688,7 +688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Khromtau"@eng-Latn ,
         "Хромтау"@kaz-Zyyy ,
         "Хромтауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ156000" ;
+    wdata:Q7200235 "KZ156000" ;
 .
 
 <urn:mdciii:1603:16:398:2:156400>
@@ -703,7 +703,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shalkar"@eng-Latn ,
         "Шалқар"@kaz-Zyyy ,
         "Шалкарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ156400" ;
+    wdata:Q7200235 "KZ156400" ;
 .
 
 <urn:mdciii:1603:16:398:2:156800>
@@ -718,7 +718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Yrgyz"@eng-Latn ,
         "Ырғыз"@kaz-Zyyy ,
         "Иргизский"@rus-Cyrl ;
-    wdata:q7200235 "KZ156800" ;
+    wdata:Q7200235 "KZ156800" ;
 .
 
 <urn:mdciii:1603:16:398:2:191000>
@@ -733,7 +733,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Taldykorgan"@eng-Latn ,
         "Талдықорған"@kaz-Zyyy ,
         "Талдыкорган"@rus-Cyrl ;
-    wdata:q7200235 "KZ191000" ;
+    wdata:Q7200235 "KZ191000" ;
 .
 
 <urn:mdciii:1603:16:398:2:191600>
@@ -748,7 +748,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kapchagay"@eng-Latn ,
         "Қапшағай"@kaz-Zyyy ,
         "Капчагай"@rus-Cyrl ;
-    wdata:q7200235 "KZ191600" ;
+    wdata:Q7200235 "KZ191600" ;
 .
 
 <urn:mdciii:1603:16:398:2:192600>
@@ -763,7 +763,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tekeli"@eng-Latn ,
         "Текелі"@kaz-Zyyy ,
         "Текели"@rus-Cyrl ;
-    wdata:q7200235 "KZ192600" ;
+    wdata:Q7200235 "KZ192600" ;
 .
 
 <urn:mdciii:1603:16:398:2:193200>
@@ -778,7 +778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aksu"@eng-Latn ,
         "Ақсу"@kaz-Zyyy ,
         "Аксуский"@rus-Cyrl ;
-    wdata:q7200235 "KZ193200" ;
+    wdata:Q7200235 "KZ193200" ;
 .
 
 <urn:mdciii:1603:16:398:2:193400>
@@ -793,7 +793,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Alakol"@eng-Latn ,
         "Алакөл"@kaz-Zyyy ,
         "Алакольский"@rus-Cyrl ;
-    wdata:q7200235 "KZ193400" ;
+    wdata:Q7200235 "KZ193400" ;
 .
 
 <urn:mdciii:1603:16:398:2:193600>
@@ -808,7 +808,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Balkhash"@eng-Latn ,
         "Балқаш"@kaz-Zyyy ,
         "Балхашский"@rus-Cyrl ;
-    wdata:q7200235 "KZ193600" ;
+    wdata:Q7200235 "KZ193600" ;
 .
 
 <urn:mdciii:1603:16:398:2:194000>
@@ -823,7 +823,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Enbekshikazakh"@eng-Latn ,
         "Еңбекшіқазақ"@kaz-Zyyy ,
         "Енбекшиказахский"@rus-Cyrl ;
-    wdata:q7200235 "KZ194000" ;
+    wdata:Q7200235 "KZ194000" ;
 .
 
 <urn:mdciii:1603:16:398:2:194200>
@@ -838,7 +838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhambyl"@eng-Latn ,
         "Жамбыл"@kaz-Zyyy ,
         "Жамбылский"@rus-Cyrl ;
-    wdata:q7200235 "KZ194200" ;
+    wdata:Q7200235 "KZ194200" ;
 .
 
 <urn:mdciii:1603:16:398:2:194400>
@@ -853,7 +853,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kegen"@eng-Latn ,
         "Кеген"@kaz-Zyyy ,
         "Кегенский"@rus-Cyrl ;
-    wdata:q7200235 "KZ194400" ;
+    wdata:Q7200235 "KZ194400" ;
 .
 
 <urn:mdciii:1603:16:398:2:194600>
@@ -868,7 +868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kerbulak"@eng-Latn ,
         "Кербұлақ"@kaz-Zyyy ,
         "Кербулакский"@rus-Cyrl ;
-    wdata:q7200235 "KZ194600" ;
+    wdata:Q7200235 "KZ194600" ;
 .
 
 <urn:mdciii:1603:16:398:2:194800>
@@ -883,7 +883,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Koksu"@eng-Latn ,
         "Көксу"@kaz-Zyyy ,
         "Коксуский"@rus-Cyrl ;
-    wdata:q7200235 "KZ194800" ;
+    wdata:Q7200235 "KZ194800" ;
 .
 
 <urn:mdciii:1603:16:398:2:195000>
@@ -898,7 +898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karatal"@eng-Latn ,
         "Қаратал"@kaz-Zyyy ,
         "Каратальский"@rus-Cyrl ;
-    wdata:q7200235 "KZ195000" ;
+    wdata:Q7200235 "KZ195000" ;
 .
 
 <urn:mdciii:1603:16:398:2:195200>
@@ -913,7 +913,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karasay"@eng-Latn ,
         "Қарасай"@kaz-Zyyy ,
         "Карасайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ195200" ;
+    wdata:Q7200235 "KZ195200" ;
 .
 
 <urn:mdciii:1603:16:398:2:195600>
@@ -928,7 +928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Panfilov"@eng-Latn ,
         "Панфилов"@kaz-Zyyy ,
         "Панфиловский"@rus-Cyrl ;
-    wdata:q7200235 "KZ195600" ;
+    wdata:Q7200235 "KZ195600" ;
 .
 
 <urn:mdciii:1603:16:398:2:195800>
@@ -943,7 +943,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Raiymbek"@eng-Latn ,
         "Райымбек"@kaz-Zyyy ,
         "Райымбекский"@rus-Cyrl ;
-    wdata:q7200235 "KZ195800" ;
+    wdata:Q7200235 "KZ195800" ;
 .
 
 <urn:mdciii:1603:16:398:2:196000>
@@ -958,7 +958,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sarkand"@eng-Latn ,
         "Сарқант"@kaz-Zyyy ,
         "Саркандский"@rus-Cyrl ;
-    wdata:q7200235 "KZ196000" ;
+    wdata:Q7200235 "KZ196000" ;
 .
 
 <urn:mdciii:1603:16:398:2:196200>
@@ -973,7 +973,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Talgar"@eng-Latn ,
         "Талғар"@kaz-Zyyy ,
         "Талгарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ196200" ;
+    wdata:Q7200235 "KZ196200" ;
 .
 
 <urn:mdciii:1603:16:398:2:196400>
@@ -988,7 +988,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Eskeldi"@eng-Latn ,
         "Ескелді"@kaz-Zyyy ,
         "Ескельдинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ196400" ;
+    wdata:Q7200235 "KZ196400" ;
 .
 
 <urn:mdciii:1603:16:398:2:196600>
@@ -1003,7 +1003,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Uygur"@eng-Latn ,
         "Ұйғыр"@kaz-Zyyy ,
         "Уйгурский"@rus-Cyrl ;
-    wdata:q7200235 "KZ196600" ;
+    wdata:Q7200235 "KZ196600" ;
 .
 
 <urn:mdciii:1603:16:398:2:196800>
@@ -1018,7 +1018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ile"@eng-Latn ,
         "Іле"@kaz-Zyyy ,
         "Илийский"@rus-Cyrl ;
-    wdata:q7200235 "KZ196800" ;
+    wdata:Q7200235 "KZ196800" ;
 .
 
 <urn:mdciii:1603:16:398:2:231000>
@@ -1033,7 +1033,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Atyrau"@eng-Latn ,
         "Атырау"@kaz-Zyyy ,
         "Атырау"@rus-Cyrl ;
-    wdata:q7200235 "KZ231000" ;
+    wdata:Q7200235 "KZ231000" ;
 .
 
 <urn:mdciii:1603:16:398:2:233600>
@@ -1048,7 +1048,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhylyoi"@eng-Latn ,
         "Жылыой"@kaz-Zyyy ,
         "Жылыойский"@rus-Cyrl ;
-    wdata:q7200235 "KZ233600" ;
+    wdata:Q7200235 "KZ233600" ;
 .
 
 <urn:mdciii:1603:16:398:2:234000>
@@ -1063,7 +1063,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Inder"@eng-Latn ,
         "Индер"@kaz-Zyyy ,
         "Индерский"@rus-Cyrl ;
-    wdata:q7200235 "KZ234000" ;
+    wdata:Q7200235 "KZ234000" ;
 .
 
 <urn:mdciii:1603:16:398:2:234200>
@@ -1078,7 +1078,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Isatay"@eng-Latn ,
         "Исатай"@kaz-Zyyy ,
         "Исатайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ234200" ;
+    wdata:Q7200235 "KZ234200" ;
 .
 
 <urn:mdciii:1603:16:398:2:234600>
@@ -1093,7 +1093,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kurmangazy"@eng-Latn ,
         "Құрманғазы"@kaz-Zyyy ,
         "Курмангазинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ234600" ;
+    wdata:Q7200235 "KZ234600" ;
 .
 
 <urn:mdciii:1603:16:398:2:234800>
@@ -1108,7 +1108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kyzylkoga"@eng-Latn ,
         "Қызылқоға"@kaz-Zyyy ,
         "Кзылкогинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ234800" ;
+    wdata:Q7200235 "KZ234800" ;
 .
 
 <urn:mdciii:1603:16:398:2:235200>
@@ -1123,7 +1123,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Makat"@eng-Latn ,
         "Мақат"@kaz-Zyyy ,
         "Макатский"@rus-Cyrl ;
-    wdata:q7200235 "KZ235200" ;
+    wdata:Q7200235 "KZ235200" ;
 .
 
 <urn:mdciii:1603:16:398:2:235600>
@@ -1138,7 +1138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Makhambet"@eng-Latn ,
         "Махамбет"@kaz-Zyyy ,
         "Махамбетский"@rus-Cyrl ;
-    wdata:q7200235 "KZ235600" ;
+    wdata:Q7200235 "KZ235600" ;
 .
 
 <urn:mdciii:1603:16:398:2:271000>
@@ -1153,7 +1153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Uralsk"@eng-Latn ,
         "Орал"@kaz-Zyyy ,
         "Уральск"@rus-Cyrl ;
-    wdata:q7200235 "KZ271000" ;
+    wdata:Q7200235 "KZ271000" ;
 .
 
 <urn:mdciii:1603:16:398:2:273200>
@@ -1168,7 +1168,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akzhaik"@eng-Latn ,
         "Ақжайық"@kaz-Zyyy ,
         "Акжаикский"@rus-Cyrl ;
-    wdata:q7200235 "KZ273200" ;
+    wdata:Q7200235 "KZ273200" ;
 .
 
 <urn:mdciii:1603:16:398:2:273600>
@@ -1183,7 +1183,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Burli"@eng-Latn ,
         "Бөрлі"@kaz-Zyyy ,
         "Бурлинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ273600" ;
+    wdata:Q7200235 "KZ273600" ;
 .
 
 <urn:mdciii:1603:16:398:2:274000>
@@ -1198,7 +1198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhanakala"@eng-Latn ,
         "Жаңақала"@kaz-Zyyy ,
         "Жангалинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ274000" ;
+    wdata:Q7200235 "KZ274000" ;
 .
 
 <urn:mdciii:1603:16:398:2:274200>
@@ -1213,7 +1213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhanybek"@eng-Latn ,
         "Жәнібек"@kaz-Zyyy ,
         "Жанибекский"@rus-Cyrl ;
-    wdata:q7200235 "KZ274200" ;
+    wdata:Q7200235 "KZ274200" ;
 .
 
 <urn:mdciii:1603:16:398:2:274400>
@@ -1228,7 +1228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Baiterek"@eng-Latn ,
         "Бәйтерек"@kaz-Zyyy ,
         "Байтерек"@rus-Cyrl ;
-    wdata:q7200235 "KZ274400" ;
+    wdata:Q7200235 "KZ274400" ;
 .
 
 <urn:mdciii:1603:16:398:2:274800>
@@ -1243,7 +1243,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kaztalovka"@eng-Latn ,
         "Казталовка"@kaz-Zyyy ,
         "Казталовский"@rus-Cyrl ;
-    wdata:q7200235 "KZ274800" ;
+    wdata:Q7200235 "KZ274800" ;
 .
 
 <urn:mdciii:1603:16:398:2:275000>
@@ -1258,7 +1258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karatobe"@eng-Latn ,
         "Қаратөбе"@kaz-Zyyy ,
         "Каратобеский"@rus-Cyrl ;
-    wdata:q7200235 "KZ275000" ;
+    wdata:Q7200235 "KZ275000" ;
 .
 
 <urn:mdciii:1603:16:398:2:275400>
@@ -1273,7 +1273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bokeyorda"@eng-Latn ,
         "Бөкейордасы"@kaz-Zyyy ,
         "Бокейординский"@rus-Cyrl ;
-    wdata:q7200235 "KZ275400" ;
+    wdata:Q7200235 "KZ275400" ;
 .
 
 <urn:mdciii:1603:16:398:2:275800>
@@ -1288,7 +1288,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Syrym"@eng-Latn ,
         "Сырым"@kaz-Zyyy ,
         "Сырымский"@rus-Cyrl ;
-    wdata:q7200235 "KZ275800" ;
+    wdata:Q7200235 "KZ275800" ;
 .
 
 <urn:mdciii:1603:16:398:2:276000>
@@ -1303,7 +1303,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Taskala"@eng-Latn ,
         "Тасқала"@kaz-Zyyy ,
         "Таскалинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ276000" ;
+    wdata:Q7200235 "KZ276000" ;
 .
 
 <urn:mdciii:1603:16:398:2:276200>
@@ -1318,7 +1318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Terekti"@eng-Latn ,
         "Теректі"@kaz-Zyyy ,
         "Теректинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ276200" ;
+    wdata:Q7200235 "KZ276200" ;
 .
 
 <urn:mdciii:1603:16:398:2:276600>
@@ -1333,7 +1333,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Chingirlau"@eng-Latn ,
         "Шыңғырлау"@kaz-Zyyy ,
         "Чингирлауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ276600" ;
+    wdata:Q7200235 "KZ276600" ;
 .
 
 <urn:mdciii:1603:16:398:2:311000>
@@ -1348,7 +1348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Taraz"@eng-Latn ,
         "Тараз"@kaz-Zyyy ,
         "Тараз"@rus-Cyrl ;
-    wdata:q7200235 "KZ311000" ;
+    wdata:Q7200235 "KZ311000" ;
 .
 
 <urn:mdciii:1603:16:398:2:313600>
@@ -1363,7 +1363,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bayzak"@eng-Latn ,
         "Байзақ"@kaz-Zyyy ,
         "Байзакский"@rus-Cyrl ;
-    wdata:q7200235 "KZ313600" ;
+    wdata:Q7200235 "KZ313600" ;
 .
 
 <urn:mdciii:1603:16:398:2:314000>
@@ -1378,7 +1378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Jambyl"@eng-Latn ,
         "Жамбыл"@kaz-Zyyy ,
         "Жамбылский"@rus-Cyrl ;
-    wdata:q7200235 "KZ314000" ;
+    wdata:Q7200235 "KZ314000" ;
 .
 
 <urn:mdciii:1603:16:398:2:314200>
@@ -1393,7 +1393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhualy"@eng-Latn ,
         "Жуалы"@kaz-Zyyy ,
         "Жуалынский"@rus-Cyrl ;
-    wdata:q7200235 "KZ314200" ;
+    wdata:Q7200235 "KZ314200" ;
 .
 
 <urn:mdciii:1603:16:398:2:314800>
@@ -1408,7 +1408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Korday"@eng-Latn ,
         "Қордай"@kaz-Zyyy ,
         "Кордайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ314800" ;
+    wdata:Q7200235 "KZ314800" ;
 .
 
 <urn:mdciii:1603:16:398:2:315000>
@@ -1423,7 +1423,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Turar Ryskulov"@eng-Latn ,
         "Тұрар Рысқұлов"@kaz-Zyyy ,
         "Турар Рыскулов"@rus-Cyrl ;
-    wdata:q7200235 "KZ315000" ;
+    wdata:Q7200235 "KZ315000" ;
 .
 
 <urn:mdciii:1603:16:398:2:315400>
@@ -1438,7 +1438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Merke"@eng-Latn ,
         "Мерке"@kaz-Zyyy ,
         "Меркенский"@rus-Cyrl ;
-    wdata:q7200235 "KZ315400" ;
+    wdata:Q7200235 "KZ315400" ;
 .
 
 <urn:mdciii:1603:16:398:2:315600>
@@ -1453,7 +1453,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Moiynkum"@eng-Latn ,
         "Мойынқұм"@kaz-Zyyy ,
         "Мойынкумский"@rus-Cyrl ;
-    wdata:q7200235 "KZ315600" ;
+    wdata:Q7200235 "KZ315600" ;
 .
 
 <urn:mdciii:1603:16:398:2:316000>
@@ -1468,7 +1468,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sarysu"@eng-Latn ,
         "Сарысу"@kaz-Zyyy ,
         "Сарысуский"@rus-Cyrl ;
-    wdata:q7200235 "KZ316000" ;
+    wdata:Q7200235 "KZ316000" ;
 .
 
 <urn:mdciii:1603:16:398:2:316200>
@@ -1483,7 +1483,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Talas"@eng-Latn ,
         "Талас"@kaz-Zyyy ,
         "Таласский"@rus-Cyrl ;
-    wdata:q7200235 "KZ316200" ;
+    wdata:Q7200235 "KZ316200" ;
 .
 
 <urn:mdciii:1603:16:398:2:316600>
@@ -1498,7 +1498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shu"@eng-Latn ,
         "Шу"@kaz-Zyyy ,
         "Шуский"@rus-Cyrl ;
-    wdata:q7200235 "KZ316600" ;
+    wdata:Q7200235 "KZ316600" ;
 .
 
 <urn:mdciii:1603:16:398:2:351000>
@@ -1513,7 +1513,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karaganda"@eng-Latn ,
         "Қарағанды"@kaz-Zyyy ,
         "Караганда"@rus-Cyrl ;
-    wdata:q7200235 "KZ351000" ;
+    wdata:Q7200235 "KZ351000" ;
 .
 
 <urn:mdciii:1603:16:398:2:351600>
@@ -1528,7 +1528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Balkhash"@eng-Latn ,
         "Балқаш"@kaz-Zyyy ,
         "Балхаш"@rus-Cyrl ;
-    wdata:q7200235 "KZ351600" ;
+    wdata:Q7200235 "KZ351600" ;
 .
 
 <urn:mdciii:1603:16:398:2:351800>
@@ -1543,7 +1543,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhezkazgan"@eng-Latn ,
         "Жезқазған"@kaz-Zyyy ,
         "Жезказган"@rus-Cyrl ;
-    wdata:q7200235 "KZ351800" ;
+    wdata:Q7200235 "KZ351800" ;
 .
 
 <urn:mdciii:1603:16:398:2:352000>
@@ -1558,7 +1558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karazhal"@eng-Latn ,
         "Қаражал"@kaz-Zyyy ,
         "Каражал"@rus-Cyrl ;
-    wdata:q7200235 "KZ352000" ;
+    wdata:Q7200235 "KZ352000" ;
 .
 
 <urn:mdciii:1603:16:398:2:352100>
@@ -1573,7 +1573,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Priozersk"@eng-Latn ,
         "Приозер"@kaz-Zyyy ,
         "Приозерск"@rus-Cyrl ;
-    wdata:q7200235 "KZ352100" ;
+    wdata:Q7200235 "KZ352100" ;
 .
 
 <urn:mdciii:1603:16:398:2:352200>
@@ -1588,7 +1588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Saran'"@eng-Latn ,
         "Саран"@kaz-Zyyy ,
         "Сарань"@rus-Cyrl ;
-    wdata:q7200235 "KZ352200" ;
+    wdata:Q7200235 "KZ352200" ;
 .
 
 <urn:mdciii:1603:16:398:2:352300>
@@ -1603,7 +1603,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Satpaev"@eng-Latn ,
         "Сәтбаев"@kaz-Zyyy ,
         "Сатпаев"@rus-Cyrl ;
-    wdata:q7200235 "KZ352300" ;
+    wdata:Q7200235 "KZ352300" ;
 .
 
 <urn:mdciii:1603:16:398:2:352400>
@@ -1618,7 +1618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Temirtau"@eng-Latn ,
         "Теміртау"@kaz-Zyyy ,
         "Темиртау"@rus-Cyrl ;
-    wdata:q7200235 "KZ352400" ;
+    wdata:Q7200235 "KZ352400" ;
 .
 
 <urn:mdciii:1603:16:398:2:352800>
@@ -1633,7 +1633,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shakhtinsk"@eng-Latn ,
         "Шахтинск"@kaz-Zyyy ,
         "Шахтинск"@rus-Cyrl ;
-    wdata:q7200235 "KZ352800" ;
+    wdata:Q7200235 "KZ352800" ;
 .
 
 <urn:mdciii:1603:16:398:2:353200>
@@ -1648,7 +1648,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Abay"@eng-Latn ,
         "Абай"@kaz-Zyyy ,
         "Абайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ353200" ;
+    wdata:Q7200235 "KZ353200" ;
 .
 
 <urn:mdciii:1603:16:398:2:353600>
@@ -1663,7 +1663,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aktogay"@eng-Latn ,
         "Ақтоғай"@kaz-Zyyy ,
         "Актогайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ353600" ;
+    wdata:Q7200235 "KZ353600" ;
 .
 
 <urn:mdciii:1603:16:398:2:354000>
@@ -1678,7 +1678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bukhar-Zhyrau"@eng-Latn ,
         "Бұқар жырау"@kaz-Zyyy ,
         "Бухар-Жырауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ354000" ;
+    wdata:Q7200235 "KZ354000" ;
 .
 
 <urn:mdciii:1603:16:398:2:354400>
@@ -1693,7 +1693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhanaarka"@eng-Latn ,
         "Жаңаарқа"@kaz-Zyyy ,
         "Жанааркинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ354400" ;
+    wdata:Q7200235 "KZ354400" ;
 .
 
 <urn:mdciii:1603:16:398:2:354800>
@@ -1708,7 +1708,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karkaraly"@eng-Latn ,
         "Қарқаралы"@kaz-Zyyy ,
         "Каркаралинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ354800" ;
+    wdata:Q7200235 "KZ354800" ;
 .
 
 <urn:mdciii:1603:16:398:2:355200>
@@ -1723,7 +1723,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nura"@eng-Latn ,
         "Нұра"@kaz-Zyyy ,
         "Нуринский"@rus-Cyrl ;
-    wdata:q7200235 "KZ355200" ;
+    wdata:Q7200235 "KZ355200" ;
 .
 
 <urn:mdciii:1603:16:398:2:355600>
@@ -1738,7 +1738,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Osakarov"@eng-Latn ,
         "Осакаров"@kaz-Zyyy ,
         "Осакаровский"@rus-Cyrl ;
-    wdata:q7200235 "KZ355600" ;
+    wdata:Q7200235 "KZ355600" ;
 .
 
 <urn:mdciii:1603:16:398:2:356000>
@@ -1753,7 +1753,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ulytau"@eng-Latn ,
         "Ұлытау"@kaz-Zyyy ,
         "Улытауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ356000" ;
+    wdata:Q7200235 "KZ356000" ;
 .
 
 <urn:mdciii:1603:16:398:2:356400>
@@ -1768,7 +1768,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shet"@eng-Latn ,
         "Шет"@kaz-Zyyy ,
         "Шетский"@rus-Cyrl ;
-    wdata:q7200235 "KZ356400" ;
+    wdata:Q7200235 "KZ356400" ;
 .
 
 <urn:mdciii:1603:16:398:2:391000>
@@ -1783,7 +1783,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kostanay"@eng-Latn ,
         "Қостанай"@kaz-Zyyy ,
         "Костанай"@rus-Cyrl ;
-    wdata:q7200235 "KZ391000" ;
+    wdata:Q7200235 "KZ391000" ;
 .
 
 <urn:mdciii:1603:16:398:2:391600>
@@ -1798,7 +1798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Arkalyk"@eng-Latn ,
         "Арқалық"@kaz-Zyyy ,
         "Аркалык"@rus-Cyrl ;
-    wdata:q7200235 "KZ391600" ;
+    wdata:Q7200235 "KZ391600" ;
 .
 
 <urn:mdciii:1603:16:398:2:392000>
@@ -1813,7 +1813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Lisakovsk"@eng-Latn ,
         "Лисаковск"@kaz-Zyyy ,
         "Лисаковск"@rus-Cyrl ;
-    wdata:q7200235 "KZ392000" ;
+    wdata:Q7200235 "KZ392000" ;
 .
 
 <urn:mdciii:1603:16:398:2:392400>
@@ -1828,7 +1828,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Rudnyy"@eng-Latn ,
         "Рудный"@kaz-Zyyy ,
         "Рудный"@rus-Cyrl ;
-    wdata:q7200235 "KZ392400" ;
+    wdata:Q7200235 "KZ392400" ;
 .
 
 <urn:mdciii:1603:16:398:2:393200>
@@ -1843,7 +1843,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Altynsarin"@eng-Latn ,
         "Алтынсарин"@kaz-Zyyy ,
         "Алтынсаринский"@rus-Cyrl ;
-    wdata:q7200235 "KZ393200" ;
+    wdata:Q7200235 "KZ393200" ;
 .
 
 <urn:mdciii:1603:16:398:2:393400>
@@ -1858,7 +1858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Amangeldi"@eng-Latn ,
         "Амангелді"@kaz-Zyyy ,
         "Амангельдинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ393400" ;
+    wdata:Q7200235 "KZ393400" ;
 .
 
 <urn:mdciii:1603:16:398:2:393600>
@@ -1873,7 +1873,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Auliekol"@eng-Latn ,
         "Әулиекөл"@kaz-Zyyy ,
         "Аулиекольский"@rus-Cyrl ;
-    wdata:q7200235 "KZ393600" ;
+    wdata:Q7200235 "KZ393600" ;
 .
 
 <urn:mdciii:1603:16:398:2:394000>
@@ -1888,7 +1888,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Denisov"@eng-Latn ,
         "Денисов"@kaz-Zyyy ,
         "Денисовский"@rus-Cyrl ;
-    wdata:q7200235 "KZ394000" ;
+    wdata:Q7200235 "KZ394000" ;
 .
 
 <urn:mdciii:1603:16:398:2:394200>
@@ -1903,7 +1903,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhangeldi"@eng-Latn ,
         "Жангелдин"@kaz-Zyyy ,
         "Джангельдинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ394200" ;
+    wdata:Q7200235 "KZ394200" ;
 .
 
 <urn:mdciii:1603:16:398:2:394400>
@@ -1918,7 +1918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhetikara"@eng-Latn ,
         "Жітіқара"@kaz-Zyyy ,
         "Житикаринский"@rus-Cyrl ;
-    wdata:q7200235 "KZ394400" ;
+    wdata:Q7200235 "KZ394400" ;
 .
 
 <urn:mdciii:1603:16:398:2:394800>
@@ -1933,7 +1933,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kamysty"@eng-Latn ,
         "Қамысты"@kaz-Zyyy ,
         "Камыстинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ394800" ;
+    wdata:Q7200235 "KZ394800" ;
 .
 
 <urn:mdciii:1603:16:398:2:395000>
@@ -1948,7 +1948,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karabalyk"@eng-Latn ,
         "Қарабалық"@kaz-Zyyy ,
         "Карабалыкский"@rus-Cyrl ;
-    wdata:q7200235 "KZ395000" ;
+    wdata:Q7200235 "KZ395000" ;
 .
 
 <urn:mdciii:1603:16:398:2:395200>
@@ -1963,7 +1963,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karasu"@eng-Latn ,
         "Қарасу"@kaz-Zyyy ,
         "Карасуский"@rus-Cyrl ;
-    wdata:q7200235 "KZ395200" ;
+    wdata:Q7200235 "KZ395200" ;
 .
 
 <urn:mdciii:1603:16:398:2:395400>
@@ -1978,7 +1978,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kostanay"@eng-Latn ,
         "Қостанай"@kaz-Zyyy ,
         "Костанайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ395400" ;
+    wdata:Q7200235 "KZ395400" ;
 .
 
 <urn:mdciii:1603:16:398:2:395600>
@@ -1993,7 +1993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mendykara"@eng-Latn ,
         "Меңдіқара"@kaz-Zyyy ,
         "Мендыкаринский"@rus-Cyrl ;
-    wdata:q7200235 "KZ395600" ;
+    wdata:Q7200235 "KZ395600" ;
 .
 
 <urn:mdciii:1603:16:398:2:395800>
@@ -2008,7 +2008,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Naurzum"@eng-Latn ,
         "Наурызым"@kaz-Zyyy ,
         "Наурзумский"@rus-Cyrl ;
-    wdata:q7200235 "KZ395800" ;
+    wdata:Q7200235 "KZ395800" ;
 .
 
 <urn:mdciii:1603:16:398:2:396200>
@@ -2023,7 +2023,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sarykol"@eng-Latn ,
         "Сарыкөл"@kaz-Zyyy ,
         "Сарыкольский"@rus-Cyrl ;
-    wdata:q7200235 "KZ396200" ;
+    wdata:Q7200235 "KZ396200" ;
 .
 
 <urn:mdciii:1603:16:398:2:396400>
@@ -2038,7 +2038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Beimbet Mailin"@eng-Latn ,
         "Бейімбет Майлин"@kaz-Zyyy ,
         "Беимбет Майлин"@rus-Cyrl ;
-    wdata:q7200235 "KZ396400" ;
+    wdata:Q7200235 "KZ396400" ;
 .
 
 <urn:mdciii:1603:16:398:2:396600>
@@ -2053,7 +2053,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Uzunkol"@eng-Latn ,
         "Ұзынкөл"@kaz-Zyyy ,
         "Узункольский"@rus-Cyrl ;
-    wdata:q7200235 "KZ396600" ;
+    wdata:Q7200235 "KZ396600" ;
 .
 
 <urn:mdciii:1603:16:398:2:396800>
@@ -2068,7 +2068,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Fedorov"@eng-Latn ,
         "Федоров"@kaz-Zyyy ,
         "Федоровский"@rus-Cyrl ;
-    wdata:q7200235 "KZ396800" ;
+    wdata:Q7200235 "KZ396800" ;
 .
 
 <urn:mdciii:1603:16:398:2:431000>
@@ -2083,7 +2083,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kyzylorda"@eng-Latn ,
         "Қызылорда"@kaz-Zyyy ,
         "Кызылорда"@rus-Cyrl ;
-    wdata:q7200235 "KZ431000" ;
+    wdata:Q7200235 "KZ431000" ;
 .
 
 <urn:mdciii:1603:16:398:2:431900>
@@ -2098,7 +2098,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Baykonyr"@eng-Latn ,
         "Байқоңыр"@kaz-Zyyy ,
         "Байконыр"@rus-Cyrl ;
-    wdata:q7200235 "KZ431900" ;
+    wdata:Q7200235 "KZ431900" ;
 .
 
 <urn:mdciii:1603:16:398:2:433200>
@@ -2113,7 +2113,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aral"@eng-Latn ,
         "Арал"@kaz-Zyyy ,
         "Аральский"@rus-Cyrl ;
-    wdata:q7200235 "KZ433200" ;
+    wdata:Q7200235 "KZ433200" ;
 .
 
 <urn:mdciii:1603:16:398:2:433600>
@@ -2128,7 +2128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhalagash"@eng-Latn ,
         "Жалағаш"@kaz-Zyyy ,
         "Жалагашский"@rus-Cyrl ;
-    wdata:q7200235 "KZ433600" ;
+    wdata:Q7200235 "KZ433600" ;
 .
 
 <urn:mdciii:1603:16:398:2:434000>
@@ -2143,7 +2143,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhanakorgan"@eng-Latn ,
         "Жаңақорған"@kaz-Zyyy ,
         "Жанакорганский"@rus-Cyrl ;
-    wdata:q7200235 "KZ434000" ;
+    wdata:Q7200235 "KZ434000" ;
 .
 
 <urn:mdciii:1603:16:398:2:434400>
@@ -2158,7 +2158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kazaly"@eng-Latn ,
         "Қазалы"@kaz-Zyyy ,
         "Казалинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ434400" ;
+    wdata:Q7200235 "KZ434400" ;
 .
 
 <urn:mdciii:1603:16:398:2:434600>
@@ -2173,7 +2173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karmakshy"@eng-Latn ,
         "Қармақшы"@kaz-Zyyy ,
         "Кармакшинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ434600" ;
+    wdata:Q7200235 "KZ434600" ;
 .
 
 <urn:mdciii:1603:16:398:2:434800>
@@ -2188,7 +2188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Syrdariya"@eng-Latn ,
         "Сырдария"@kaz-Zyyy ,
         "Сырдарьинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ434800" ;
+    wdata:Q7200235 "KZ434800" ;
 .
 
 <urn:mdciii:1603:16:398:2:435200>
@@ -2203,7 +2203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shieli"@eng-Latn ,
         "Шиелі"@kaz-Zyyy ,
         "Чиилийский"@rus-Cyrl ;
-    wdata:q7200235 "KZ435200" ;
+    wdata:Q7200235 "KZ435200" ;
 .
 
 <urn:mdciii:1603:16:398:2:471000>
@@ -2218,7 +2218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aktau"@eng-Latn ,
         "Ақтау"@kaz-Zyyy ,
         "Актау"@rus-Cyrl ;
-    wdata:q7200235 "KZ471000" ;
+    wdata:Q7200235 "KZ471000" ;
 .
 
 <urn:mdciii:1603:16:398:2:471800>
@@ -2233,7 +2233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhanaozen"@eng-Latn ,
         "Жаңаөзен"@kaz-Zyyy ,
         "Жанаозен"@rus-Cyrl ;
-    wdata:q7200235 "KZ471800" ;
+    wdata:Q7200235 "KZ471800" ;
 .
 
 <urn:mdciii:1603:16:398:2:473600>
@@ -2248,7 +2248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Beyneu"@eng-Latn ,
         "Бейнеу"@kaz-Zyyy ,
         "Бейнеуский"@rus-Cyrl ;
-    wdata:q7200235 "KZ473600" ;
+    wdata:Q7200235 "KZ473600" ;
 .
 
 <urn:mdciii:1603:16:398:2:474200>
@@ -2263,7 +2263,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karakiyan"@eng-Latn ,
         "Қарақиян"@kaz-Zyyy ,
         "Каракиянский"@rus-Cyrl ;
-    wdata:q7200235 "KZ474200" ;
+    wdata:Q7200235 "KZ474200" ;
 .
 
 <urn:mdciii:1603:16:398:2:474600>
@@ -2278,7 +2278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mangistau"@eng-Latn ,
         "Маңғыстау"@kaz-Zyyy ,
         "Мангистауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ474600" ;
+    wdata:Q7200235 "KZ474600" ;
 .
 
 <urn:mdciii:1603:16:398:2:475000>
@@ -2293,7 +2293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Munayli"@eng-Latn ,
         "Мұнайлы"@kaz-Zyyy ,
         "Мунайлинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ475000" ;
+    wdata:Q7200235 "KZ475000" ;
 .
 
 <urn:mdciii:1603:16:398:2:475200>
@@ -2308,7 +2308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tupkaragan"@eng-Latn ,
         "Түпқараған"@kaz-Zyyy ,
         "Тупкараганский"@rus-Cyrl ;
-    wdata:q7200235 "KZ475200" ;
+    wdata:Q7200235 "KZ475200" ;
 .
 
 <urn:mdciii:1603:16:398:2:551000>
@@ -2323,7 +2323,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pavlodar"@eng-Latn ,
         "Павлодар"@kaz-Zyyy ,
         "Павлодар"@rus-Cyrl ;
-    wdata:q7200235 "KZ551000" ;
+    wdata:Q7200235 "KZ551000" ;
 .
 
 <urn:mdciii:1603:16:398:2:551600>
@@ -2338,7 +2338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aksu"@eng-Latn ,
         "Ақсу"@kaz-Zyyy ,
         "Аксу"@rus-Cyrl ;
-    wdata:q7200235 "KZ551600" ;
+    wdata:Q7200235 "KZ551600" ;
 .
 
 <urn:mdciii:1603:16:398:2:552200>
@@ -2353,7 +2353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ekibastuz"@eng-Latn ,
         "Екібастұз"@kaz-Zyyy ,
         "Экибастуз"@rus-Cyrl ;
-    wdata:q7200235 "KZ552200" ;
+    wdata:Q7200235 "KZ552200" ;
 .
 
 <urn:mdciii:1603:16:398:2:553200>
@@ -2368,7 +2368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aktogay"@eng-Latn ,
         "Ақтоғай"@kaz-Zyyy ,
         "Актогайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ553200" ;
+    wdata:Q7200235 "KZ553200" ;
 .
 
 <urn:mdciii:1603:16:398:2:553600>
@@ -2383,7 +2383,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bayanaul"@eng-Latn ,
         "Баянауыл"@kaz-Zyyy ,
         "Баянаульский"@rus-Cyrl ;
-    wdata:q7200235 "KZ553600" ;
+    wdata:Q7200235 "KZ553600" ;
 .
 
 <urn:mdciii:1603:16:398:2:554200>
@@ -2398,7 +2398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhelezin"@eng-Latn ,
         "Железин"@kaz-Zyyy ,
         "Железинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ554200" ;
+    wdata:Q7200235 "KZ554200" ;
 .
 
 <urn:mdciii:1603:16:398:2:554600>
@@ -2413,7 +2413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Irtysh"@eng-Latn ,
         "Ертіс"@kaz-Zyyy ,
         "Иртышский"@rus-Cyrl ;
-    wdata:q7200235 "KZ554600" ;
+    wdata:Q7200235 "KZ554600" ;
 .
 
 <urn:mdciii:1603:16:398:2:554800>
@@ -2428,7 +2428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Terenkol"@eng-Latn ,
         "Тереңкөл"@kaz-Zyyy ,
         "Теренкол"@rus-Cyrl ;
-    wdata:q7200235 "KZ554800" ;
+    wdata:Q7200235 "KZ554800" ;
 .
 
 <urn:mdciii:1603:16:398:2:555200>
@@ -2443,7 +2443,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akkuly"@eng-Latn ,
         "Аққулы"@kaz-Zyyy ,
         "Аккулы"@rus-Cyrl ;
-    wdata:q7200235 "KZ555200" ;
+    wdata:Q7200235 "KZ555200" ;
 .
 
 <urn:mdciii:1603:16:398:2:555600>
@@ -2458,7 +2458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "May"@eng-Latn ,
         "Май"@kaz-Zyyy ,
         "Майский"@rus-Cyrl ;
-    wdata:q7200235 "KZ555600" ;
+    wdata:Q7200235 "KZ555600" ;
 .
 
 <urn:mdciii:1603:16:398:2:556000>
@@ -2473,7 +2473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pavlodar"@eng-Latn ,
         "Павлодар"@kaz-Zyyy ,
         "Павлодарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ556000" ;
+    wdata:Q7200235 "KZ556000" ;
 .
 
 <urn:mdciii:1603:16:398:2:556400>
@@ -2488,7 +2488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Uspen"@eng-Latn ,
         "Успен"@kaz-Zyyy ,
         "Успенский"@rus-Cyrl ;
-    wdata:q7200235 "KZ556400" ;
+    wdata:Q7200235 "KZ556400" ;
 .
 
 <urn:mdciii:1603:16:398:2:556800>
@@ -2503,7 +2503,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sharbakty"@eng-Latn ,
         "Шарбақты"@kaz-Zyyy ,
         "Щербактинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ556800" ;
+    wdata:Q7200235 "KZ556800" ;
 .
 
 <urn:mdciii:1603:16:398:2:591000>
@@ -2518,7 +2518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Petropavlovsk"@eng-Latn ,
         "Петропавл"@kaz-Zyyy ,
         "Петропавловск"@rus-Cyrl ;
-    wdata:q7200235 "KZ591000" ;
+    wdata:Q7200235 "KZ591000" ;
 .
 
 <urn:mdciii:1603:16:398:2:593200>
@@ -2533,7 +2533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aiyrtau"@eng-Latn ,
         "Айыртау"@kaz-Zyyy ,
         "Айыртауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ593200" ;
+    wdata:Q7200235 "KZ593200" ;
 .
 
 <urn:mdciii:1603:16:398:2:593400>
@@ -2548,7 +2548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akzhar"@eng-Latn ,
         "Ақжар"@kaz-Zyyy ,
         "Акжарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ593400" ;
+    wdata:Q7200235 "KZ593400" ;
 .
 
 <urn:mdciii:1603:16:398:2:593600>
@@ -2563,7 +2563,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Magzhan Zhumabaev"@eng-Latn ,
         "Мағжан Жұмабаев"@kaz-Zyyy ,
         "Магжан Жумабаев"@rus-Cyrl ;
-    wdata:q7200235 "KZ593600" ;
+    wdata:Q7200235 "KZ593600" ;
 .
 
 <urn:mdciii:1603:16:398:2:594200>
@@ -2578,7 +2578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Esil"@eng-Latn ,
         "Есіл"@kaz-Zyyy ,
         "Есильский"@rus-Cyrl ;
-    wdata:q7200235 "KZ594200" ;
+    wdata:Q7200235 "KZ594200" ;
 .
 
 <urn:mdciii:1603:16:398:2:594600>
@@ -2593,7 +2593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhambyl"@eng-Latn ,
         "Жамбыл"@kaz-Zyyy ,
         "Жамбылский"@rus-Cyrl ;
-    wdata:q7200235 "KZ594600" ;
+    wdata:Q7200235 "KZ594600" ;
 .
 
 <urn:mdciii:1603:16:398:2:595000>
@@ -2608,7 +2608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kyzylzhar"@eng-Latn ,
         "Қызылжар"@kaz-Zyyy ,
         "Кызылжарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ595000" ;
+    wdata:Q7200235 "KZ595000" ;
 .
 
 <urn:mdciii:1603:16:398:2:595200>
@@ -2623,7 +2623,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mamlyut"@eng-Latn ,
         "Мамлют"@kaz-Zyyy ,
         "Мамлютский"@rus-Cyrl ;
-    wdata:q7200235 "KZ595200" ;
+    wdata:Q7200235 "KZ595200" ;
 .
 
 <urn:mdciii:1603:16:398:2:595600>
@@ -2638,7 +2638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shal akyn"@eng-Latn ,
         "Шал ақын"@kaz-Zyyy ,
         "Шал акын"@rus-Cyrl ;
-    wdata:q7200235 "KZ595600" ;
+    wdata:Q7200235 "KZ595600" ;
 .
 
 <urn:mdciii:1603:16:398:2:595800>
@@ -2653,7 +2653,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akkayin"@eng-Latn ,
         "Аққайың"@kaz-Zyyy ,
         "Аккайынский"@rus-Cyrl ;
-    wdata:q7200235 "KZ595800" ;
+    wdata:Q7200235 "KZ595800" ;
 .
 
 <urn:mdciii:1603:16:398:2:596000>
@@ -2668,7 +2668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Taiynsha"@eng-Latn ,
         "Тайынша"@kaz-Zyyy ,
         "Тайыншинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ596000" ;
+    wdata:Q7200235 "KZ596000" ;
 .
 
 <urn:mdciii:1603:16:398:2:596200>
@@ -2683,7 +2683,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Timiryazev"@eng-Latn ,
         "Тимирязев"@kaz-Zyyy ,
         "Тимирязевский"@rus-Cyrl ;
-    wdata:q7200235 "KZ596200" ;
+    wdata:Q7200235 "KZ596200" ;
 .
 
 <urn:mdciii:1603:16:398:2:596400>
@@ -2698,7 +2698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ualikhanov"@eng-Latn ,
         "Уәлиханов"@kaz-Zyyy ,
         "Уалихановский"@rus-Cyrl ;
-    wdata:q7200235 "KZ596400" ;
+    wdata:Q7200235 "KZ596400" ;
 .
 
 <urn:mdciii:1603:16:398:2:596600>
@@ -2713,7 +2713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gabit Musirepov"@eng-Latn ,
         "Ғабит Мүсірепов"@kaz-Zyyy ,
         "Габит Мусрепов"@rus-Cyrl ;
-    wdata:q7200235 "KZ596600" ;
+    wdata:Q7200235 "KZ596600" ;
 .
 
 <urn:mdciii:1603:16:398:2:611600>
@@ -2728,7 +2728,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Arys"@eng-Latn ,
         "Арыс"@kaz-Zyyy ,
         "Арысь"@rus-Cyrl ;
-    wdata:q7200235 "KZ611600" ;
+    wdata:Q7200235 "KZ611600" ;
 .
 
 <urn:mdciii:1603:16:398:2:612000>
@@ -2743,7 +2743,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kentau"@eng-Latn ,
         "Кентау"@kaz-Zyyy ,
         "Кентау"@rus-Cyrl ;
-    wdata:q7200235 "KZ612000" ;
+    wdata:Q7200235 "KZ612000" ;
 .
 
 <urn:mdciii:1603:16:398:2:612600>
@@ -2758,7 +2758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Turkestan"@eng-Latn ,
         "Түркістан"@kaz-Zyyy ,
         "Туркестан"@rus-Cyrl ;
-    wdata:q7200235 "KZ612600" ;
+    wdata:Q7200235 "KZ612600" ;
 .
 
 <urn:mdciii:1603:16:398:2:613600>
@@ -2773,7 +2773,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Baydibek"@eng-Latn ,
         "Бәйдібек"@kaz-Zyyy ,
         "Байдибек"@rus-Cyrl ;
-    wdata:q7200235 "KZ613600" ;
+    wdata:Q7200235 "KZ613600" ;
 .
 
 <urn:mdciii:1603:16:398:2:613800>
@@ -2788,7 +2788,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhetysai"@eng-Latn ,
         "Жетісай"@kaz-Zyyy ,
         "Жетисайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ613800" ;
+    wdata:Q7200235 "KZ613800" ;
 .
 
 <urn:mdciii:1603:16:398:2:613900>
@@ -2803,7 +2803,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Keles"@eng-Latn ,
         "Келес"@kaz-Zyyy ,
         "Келесский"@rus-Cyrl ;
-    wdata:q7200235 "KZ613900" ;
+    wdata:Q7200235 "KZ613900" ;
 .
 
 <urn:mdciii:1603:16:398:2:614000>
@@ -2818,7 +2818,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kazygurt"@eng-Latn ,
         "Қазығұрт"@kaz-Zyyy ,
         "Казыгуртский"@rus-Cyrl ;
-    wdata:q7200235 "KZ614000" ;
+    wdata:Q7200235 "KZ614000" ;
 .
 
 <urn:mdciii:1603:16:398:2:614400>
@@ -2833,7 +2833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Maktaaral"@eng-Latn ,
         "Мақтаарал"@kaz-Zyyy ,
         "Мактааральский"@rus-Cyrl ;
-    wdata:q7200235 "KZ614400" ;
+    wdata:Q7200235 "KZ614400" ;
 .
 
 <urn:mdciii:1603:16:398:2:614600>
@@ -2848,7 +2848,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ordabasy"@eng-Latn ,
         "Ордабасы"@kaz-Zyyy ,
         "Ордабасынский"@rus-Cyrl ;
-    wdata:q7200235 "KZ614600" ;
+    wdata:Q7200235 "KZ614600" ;
 .
 
 <urn:mdciii:1603:16:398:2:614800>
@@ -2863,7 +2863,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Otrar"@eng-Latn ,
         "Отырар"@kaz-Zyyy ,
         "Отрарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ614800" ;
+    wdata:Q7200235 "KZ614800" ;
 .
 
 <urn:mdciii:1603:16:398:2:615200>
@@ -2878,7 +2878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sayram"@eng-Latn ,
         "Сайрам"@kaz-Zyyy ,
         "Сайрамский"@rus-Cyrl ;
-    wdata:q7200235 "KZ615200" ;
+    wdata:Q7200235 "KZ615200" ;
 .
 
 <urn:mdciii:1603:16:398:2:615400>
@@ -2893,7 +2893,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Saryagash"@eng-Latn ,
         "Сарыағаш"@kaz-Zyyy ,
         "Сарыагашский"@rus-Cyrl ;
-    wdata:q7200235 "KZ615400" ;
+    wdata:Q7200235 "KZ615400" ;
 .
 
 <urn:mdciii:1603:16:398:2:615600>
@@ -2908,7 +2908,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Suzak"@eng-Latn ,
         "Созақ"@kaz-Zyyy ,
         "Сузакский"@rus-Cyrl ;
-    wdata:q7200235 "KZ615600" ;
+    wdata:Q7200235 "KZ615600" ;
 .
 
 <urn:mdciii:1603:16:398:2:615800>
@@ -2923,7 +2923,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tolebi"@eng-Latn ,
         "Төле би"@kaz-Zyyy ,
         "Толебийский"@rus-Cyrl ;
-    wdata:q7200235 "KZ615800" ;
+    wdata:Q7200235 "KZ615800" ;
 .
 
 <urn:mdciii:1603:16:398:2:616000>
@@ -2938,7 +2938,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tyulkubas"@eng-Latn ,
         "Түлкібас"@kaz-Zyyy ,
         "Тюлькубасский"@rus-Cyrl ;
-    wdata:q7200235 "KZ616000" ;
+    wdata:Q7200235 "KZ616000" ;
 .
 
 <urn:mdciii:1603:16:398:2:616400>
@@ -2953,7 +2953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shardara"@eng-Latn ,
         "Шардара"@kaz-Zyyy ,
         "Шардаринский"@rus-Cyrl ;
-    wdata:q7200235 "KZ616400" ;
+    wdata:Q7200235 "KZ616400" ;
 .
 
 <urn:mdciii:1603:16:398:2:631000>
@@ -2968,7 +2968,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ust-Kamenogorsk"@eng-Latn ,
         "Өскемен"@kaz-Zyyy ,
         "Усть-Каменогорск"@rus-Cyrl ;
-    wdata:q7200235 "KZ631000" ;
+    wdata:Q7200235 "KZ631000" ;
 .
 
 <urn:mdciii:1603:16:398:2:632200>
@@ -2983,7 +2983,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kurchatov"@eng-Latn ,
         "Курчатов"@kaz-Zyyy ,
         "Курчатов"@rus-Cyrl ;
-    wdata:q7200235 "KZ632200" ;
+    wdata:Q7200235 "KZ632200" ;
 .
 
 <urn:mdciii:1603:16:398:2:632400>
@@ -2998,7 +2998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ridder"@eng-Latn ,
         "Риддер"@kaz-Zyyy ,
         "Риддер"@rus-Cyrl ;
-    wdata:q7200235 "KZ632400" ;
+    wdata:Q7200235 "KZ632400" ;
 .
 
 <urn:mdciii:1603:16:398:2:632800>
@@ -3013,7 +3013,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Semey"@eng-Latn ,
         "Семей"@kaz-Zyyy ,
         "Семей"@rus-Cyrl ;
-    wdata:q7200235 "KZ632800" ;
+    wdata:Q7200235 "KZ632800" ;
 .
 
 <urn:mdciii:1603:16:398:2:633200>
@@ -3028,7 +3028,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Abay"@eng-Latn ,
         "Абай"@kaz-Zyyy ,
         "Абайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ633200" ;
+    wdata:Q7200235 "KZ633200" ;
 .
 
 <urn:mdciii:1603:16:398:2:633400>
@@ -3043,7 +3043,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ayagoz"@eng-Latn ,
         "Аягөз"@kaz-Zyyy ,
         "Аягозский"@rus-Cyrl ;
-    wdata:q7200235 "KZ633400" ;
+    wdata:Q7200235 "KZ633400" ;
 .
 
 <urn:mdciii:1603:16:398:2:633600>
@@ -3058,7 +3058,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Beskaragay"@eng-Latn ,
         "Бесқарағай"@kaz-Zyyy ,
         "Бескарагайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ633600" ;
+    wdata:Q7200235 "KZ633600" ;
 .
 
 <urn:mdciii:1603:16:398:2:633800>
@@ -3073,7 +3073,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Borodulikha"@eng-Latn ,
         "Бородулиха"@kaz-Zyyy ,
         "Бородулихинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ633800" ;
+    wdata:Q7200235 "KZ633800" ;
 .
 
 <urn:mdciii:1603:16:398:2:634000>
@@ -3088,7 +3088,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Glubokoe"@eng-Latn ,
         "Глубокое"@kaz-Zyyy ,
         "Глубоковский"@rus-Cyrl ;
-    wdata:q7200235 "KZ634000" ;
+    wdata:Q7200235 "KZ634000" ;
 .
 
 <urn:mdciii:1603:16:398:2:634400>
@@ -3103,7 +3103,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zharma"@eng-Latn ,
         "Жарма"@kaz-Zyyy ,
         "Жарминский"@rus-Cyrl ;
-    wdata:q7200235 "KZ634400" ;
+    wdata:Q7200235 "KZ634400" ;
 .
 
 <urn:mdciii:1603:16:398:2:634600>
@@ -3118,7 +3118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zaysan"@eng-Latn ,
         "Зайсан"@kaz-Zyyy ,
         "Зайсанский"@rus-Cyrl ;
-    wdata:q7200235 "KZ634600" ;
+    wdata:Q7200235 "KZ634600" ;
 .
 
 <urn:mdciii:1603:16:398:2:634800>
@@ -3133,7 +3133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Altay"@eng-Latn ,
         "Алтай"@kaz-Zyyy ,
         "Алтайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ634800" ;
+    wdata:Q7200235 "KZ634800" ;
 .
 
 <urn:mdciii:1603:16:398:2:635000>
@@ -3148,7 +3148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kokpekti"@eng-Latn ,
         "Көкпекті"@kaz-Zyyy ,
         "Кокпектинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ635000" ;
+    wdata:Q7200235 "KZ635000" ;
 .
 
 <urn:mdciii:1603:16:398:2:635200>
@@ -3163,7 +3163,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kurshum"@eng-Latn ,
         "Күршім"@kaz-Zyyy ,
         "Курчумский"@rus-Cyrl ;
-    wdata:q7200235 "KZ635200" ;
+    wdata:Q7200235 "KZ635200" ;
 .
 
 <urn:mdciii:1603:16:398:2:635400>
@@ -3178,7 +3178,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Katonkaragay"@eng-Latn ,
         "Қатонқарағай"@kaz-Zyyy ,
         "Катон-Карагайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ635400" ;
+    wdata:Q7200235 "KZ635400" ;
 .
 
 <urn:mdciii:1603:16:398:2:635800>
@@ -3193,7 +3193,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tarbagatay"@eng-Latn ,
         "Тарбағатай"@kaz-Zyyy ,
         "Тарбагатайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ635800" ;
+    wdata:Q7200235 "KZ635800" ;
 .
 
 <urn:mdciii:1603:16:398:2:636200>
@@ -3208,7 +3208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ulan"@eng-Latn ,
         "Ұлан"@kaz-Zyyy ,
         "Уланский"@rus-Cyrl ;
-    wdata:q7200235 "KZ636200" ;
+    wdata:Q7200235 "KZ636200" ;
 .
 
 <urn:mdciii:1603:16:398:2:636400>
@@ -3223,7 +3223,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Urzhar"@eng-Latn ,
         "Үржар"@kaz-Zyyy ,
         "Урджарский"@rus-Cyrl ;
-    wdata:q7200235 "KZ636400" ;
+    wdata:Q7200235 "KZ636400" ;
 .
 
 <urn:mdciii:1603:16:398:2:636800>
@@ -3238,7 +3238,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shemonaikha"@eng-Latn ,
         "Шемонаиха"@kaz-Zyyy ,
         "Шемонаихинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ636800" ;
+    wdata:Q7200235 "KZ636800" ;
 .
 
 <urn:mdciii:1603:16:398:2:711110>
@@ -3253,7 +3253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Almaty"@eng-Latn ,
         "Алматы"@kaz-Zyyy ,
         "Алматинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ711110" ;
+    wdata:Q7200235 "KZ711110" ;
 .
 
 <urn:mdciii:1603:16:398:2:711210>
@@ -3268,7 +3268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Esil"@eng-Latn ,
         "Есіл"@kaz-Zyyy ,
         "Есильский"@rus-Cyrl ;
-    wdata:q7200235 "KZ711210" ;
+    wdata:Q7200235 "KZ711210" ;
 .
 
 <urn:mdciii:1603:16:398:2:711310>
@@ -3283,7 +3283,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Saryarka"@eng-Latn ,
         "Сарыарқа"@kaz-Zyyy ,
         "Сарыаркинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ711310" ;
+    wdata:Q7200235 "KZ711310" ;
 .
 
 <urn:mdciii:1603:16:398:2:711410>
@@ -3298,7 +3298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Baykonyr"@eng-Latn ,
         "Байқоңыр"@kaz-Zyyy ,
         "Байконырский"@rus-Cyrl ;
-    wdata:q7200235 "KZ711410" ;
+    wdata:Q7200235 "KZ711410" ;
 .
 
 <urn:mdciii:1603:16:398:2:751110>
@@ -3313,7 +3313,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Almaly"@eng-Latn ,
         "Алмалы"@kaz-Zyyy ,
         "Алмалинский"@rus-Cyrl ;
-    wdata:q7200235 "KZ751110" ;
+    wdata:Q7200235 "KZ751110" ;
 .
 
 <urn:mdciii:1603:16:398:2:751210>
@@ -3328,7 +3328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Alatau"@eng-Latn ,
         "Алатау"@kaz-Zyyy ,
         "Алатауский"@rus-Cyrl ;
-    wdata:q7200235 "KZ751210" ;
+    wdata:Q7200235 "KZ751210" ;
 .
 
 <urn:mdciii:1603:16:398:2:751310>
@@ -3343,7 +3343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Auezov"@eng-Latn ,
         "Әуезов"@kaz-Zyyy ,
         "Ауэзовский"@rus-Cyrl ;
-    wdata:q7200235 "KZ751310" ;
+    wdata:Q7200235 "KZ751310" ;
 .
 
 <urn:mdciii:1603:16:398:2:751410>
@@ -3358,7 +3358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bostandyk"@eng-Latn ,
         "Бостандық"@kaz-Zyyy ,
         "Бостандыкский"@rus-Cyrl ;
-    wdata:q7200235 "KZ751410" ;
+    wdata:Q7200235 "KZ751410" ;
 .
 
 <urn:mdciii:1603:16:398:2:751510>
@@ -3373,7 +3373,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Zhetysu"@eng-Latn ,
         "Жетісу"@kaz-Zyyy ,
         "Жетысуский"@rus-Cyrl ;
-    wdata:q7200235 "KZ751510" ;
+    wdata:Q7200235 "KZ751510" ;
 .
 
 <urn:mdciii:1603:16:398:2:751710>
@@ -3388,7 +3388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Medeu"@eng-Latn ,
         "Медеу"@kaz-Zyyy ,
         "Медеуский"@rus-Cyrl ;
-    wdata:q7200235 "KZ751710" ;
+    wdata:Q7200235 "KZ751710" ;
 .
 
 <urn:mdciii:1603:16:398:2:751810>
@@ -3403,7 +3403,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nauryzbay"@eng-Latn ,
         "Наурызбай"@kaz-Zyyy ,
         "Наурызбайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ751810" ;
+    wdata:Q7200235 "KZ751810" ;
 .
 
 <urn:mdciii:1603:16:398:2:751910>
@@ -3418,7 +3418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Turksib"@eng-Latn ,
         "Түркісіб"@kaz-Zyyy ,
         "Турксибский"@rus-Cyrl ;
-    wdata:q7200235 "KZ751910" ;
+    wdata:Q7200235 "KZ751910" ;
 .
 
 <urn:mdciii:1603:16:398:2:791110>
@@ -3433,7 +3433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Abay"@eng-Latn ,
         "Абай"@kaz-Zyyy ,
         "Абайский"@rus-Cyrl ;
-    wdata:q7200235 "KZ791110" ;
+    wdata:Q7200235 "KZ791110" ;
 .
 
 <urn:mdciii:1603:16:398:2:791310>
@@ -3448,7 +3448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Al-Farabi"@eng-Latn ,
         "Әл Фараби"@kaz-Zyyy ,
         "Аль-Фарабиский"@rus-Cyrl ;
-    wdata:q7200235 "KZ791310" ;
+    wdata:Q7200235 "KZ791310" ;
 .
 
 <urn:mdciii:1603:16:398:2:791510>
@@ -3463,7 +3463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Enbekshi"@eng-Latn ,
         "Еңбекші"@kaz-Zyyy ,
         "Енбекшинскийский"@rus-Cyrl ;
-    wdata:q7200235 "KZ791510" ;
+    wdata:Q7200235 "KZ791510" ;
 .
 
 <urn:mdciii:1603:16:398:2:791710>
@@ -3478,6 +3478,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karatau"@eng-Latn ,
         "Қаратау"@kaz-Zyyy ,
         "Каратаускийский"@rus-Cyrl ;
-    wdata:q7200235 "KZ791710" ;
+    wdata:Q7200235 "KZ791710" ;
 .
 
